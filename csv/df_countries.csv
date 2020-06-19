@@ -1,0 +1,262 @@
+,CCA2,Name,CCA3,Nationality,name_lower,country_freq,nationality_lower
+0,AD,Andorra,AND,Andorran,andorra,0,andorran
+1,AE,United Arab Emirates,ARE,Emirati,united arab emirates,1,emirati
+2,AF,Afghanistan,AFG,Afghan,afghanistan,10,afghan
+3,AG,Antigua and Barbuda,ATG,"Antiguan, Barbudan",antigua and barbuda,0,"antiguan, barbudan"
+4,AI,Anguilla,AIA,Anguillian,anguilla,0,anguillian
+5,AL,Albania,ALB,Albanian,albania,0,albanian
+6,AM,Armenia,ARM,Armenian,armenia,0,armenian
+7,AN,Netherlands Antilles,,Dutch,netherlands antilles,0,dutch
+8,AO,Angola,AGO,Angolan,angola,2,angolan
+9,AQ,Antarctica,ATA,?,antarctica,0,?
+10,AR,Argentina,ARG,Argentinean,argentina,0,argentinean
+11,AS,American Samoa,ASM,American Samoan,american samoa,0,american samoan
+12,AT,Austria,AUT,Austrian,austria,19,austrian
+13,AU,Australia,AUS,Australian,australia,52,australian
+14,AW,Aruba,ABW,Aruban,aruba,0,aruban
+15,AX,Åland Islands,ALA,Swedish,åland islands,0,swedish
+16,AZ,Azerbaijan,AZE,Azerbaijani,azerbaijan,1,azerbaijani
+17,BA,Bosnia and Herzegovina,BIH,"Bosnian, Herzegovinian",bosnia and herzegovina,0,"bosnian, herzegovinian"
+18,BB,Barbados,BRB,Barbadian,barbados,0,barbadian
+19,BD,Bangladesh,BGD,Bangladeshi,bangladesh,5,bangladeshi
+20,BE,Belgium,BEL,Belgian,belgium,1,belgian
+21,BF,Burkina Faso,BFA,Burkinabe,burkina faso,0,burkinabe
+22,BG,Bulgaria,BGR,Bulgarian,bulgaria,0,bulgarian
+23,BH,Bahrain,BHR,Bahraini,bahrain,22,bahraini
+24,BI,Burundi,BDI,Burundian,burundi,0,burundian
+25,BJ,Benin,BEN,Beninese,benin,0,beninese
+26,BL,Saint Barthélemy,BLM,Saint Barthélemy Islander,saint barthélemy,0,saint barthélemy islander
+27,BM,Bermuda,BMU,Bermudian,bermuda,0,bermudian
+28,BN,Brunei,BRN,Bruneian,brunei,111,bruneian
+29,BO,Bolivia,BOL,Bolivian,bolivia,3,bolivian
+30,BQ,British Antarctic Territory,BES,Dutch,british antarctic territory,0,dutch
+31,BR,Brazil,BRA,Brazilian,brazil,8,brazilian
+32,BS,Bahamas,BHS,Bahamian,bahamas,0,bahamian
+33,BT,Bhutan,BTN,Bhutanese,bhutan,0,bhutanese
+34,BV,Bouvet Island,BVT,?,bouvet island,0,?
+35,BW,Botswana,BWA,Motswana,botswana,0,motswana
+36,BY,Belarus,BLR,Belarusian,belarus,0,belarusian
+37,BZ,Belize,BLZ,Belizean,belize,0,belizean
+38,CA,Canada,CAN,Canadian,canada,66,canadian
+39,CC,Cocos [Keeling] Islands,CCK,Cocos Islander,cocos [keeling] islands,0,cocos islander
+40,CD,Congo - Kinshasa,COD,Congolese,congo - kinshasa,0,congolese
+41,CF,Central African Republic,CAF,Central African,central african republic,0,central african
+42,CG,Congo - Brazzaville,COG,Congolese,congo - brazzaville,0,congolese
+43,CH,Switzerland,CHE,Swiss,switzerland,12,swiss
+44,CI,Côte d’Ivoire,CIV,Ivorian,côte d’ivoire,0,ivorian
+45,CK,Cook Islands,COK,Cook Islander,cook islands,0,cook islander
+46,CL,Chile,CHL,Chilean,chile,2,chilean
+47,CM,Cameroon,CMR,Cameroonian,cameroon,0,cameroonian
+48,CN,China,CHN,Chinese,china,1502,chinese
+49,CO,Colombia,COL,Colombian,colombia,21,colombian
+50,CR,Costa Rica,CRI,Costa Rican,costa rica,0,costa rican
+51,CS,Serbia and Montenegro,SCG,"Montenegrins, Serbs",serbia and montenegro,0,"montenegrins, serbs"
+52,CT,Canton and Enderbury Islands,CTE,?,canton and enderbury islands,0,?
+53,CU,Cuba,CUB,Cuban,cuba,0,cuban
+54,CV,Cape Verde,CPV,Cape Verdian,cape verde,0,cape verdian
+55,CX,Christmas Island,CXR,Christmas Island,christmas island,0,christmas island
+56,CY,Cyprus,CYP,Cypriot,cyprus,0,cypriot
+57,CZ,Czech Republic,CZE,Czech,czech republic,0,czech
+58,DE,Germany,DEU,German,germany,20,german
+59,DJ,Djibouti,DJI,Djibouti,djibouti,0,djibouti
+60,DK,Denmark,DNK,Danish,denmark,4,danish
+61,DM,Dominica,DMA,Dominican,dominica,0,dominican
+62,DO,Dominican Republic,DOM,Dominican,dominican republic,0,dominican
+63,DZ,Algeria,DZA,Algerian,algeria,0,algerian
+64,EC,Ecuador,ECU,Ecuadorean,ecuador,2,ecuadorean
+65,EE,Estonia,EST,Estonian,estonia,3,estonian
+66,EG,Egypt,EGY,Egyptian,egypt,15,egyptian
+67,EH,Western Sahara,ESH,Sahrawi,western sahara,0,sahrawi
+68,ER,Eritrea,ERI,Eritrean,eritrea,0,eritrean
+69,ES,Spain,ESP,Spanish,spain,51,spanish
+70,ET,Ethiopia,ETH,Ethiopian,ethiopia,0,ethiopian
+71,FI,Finland,FIN,Finnish,finland,2,finnish
+72,FJ,Fiji,FJI,Fijian,fiji,0,fijian
+73,FK,Falkland Islands,FLK,Falkland Islander,falkland islands,0,falkland islander
+74,FM,Micronesia,FSM,Micronesian,micronesia,0,micronesian
+75,FO,Faroe Islands,FRO,Faroese,faroe islands,0,faroese
+76,FQ,French Southern and Antarctic Territories,ATF,?,french southern and antarctic territories,0,?
+77,FR,France,FRA,French,france,48,french
+78,FX,Metropolitan France,FXX,?,metropolitan france,0,?
+79,GA,Gabon,GAB,Gabonese,gabon,1,gabonese
+80,GB,United Kingdom,GBR,British,united kingdom,0,british
+81,GD,Grenada,GRD,Grenadian,grenada,0,grenadian
+82,GE,Georgia,GEO,Georgian,georgia,4,georgian
+83,GF,French Guiana,GUF,?,french guiana,0,?
+84,GG,Guernsey,GGY,Channel Islander,guernsey,0,channel islander
+85,GH,Ghana,GHA,Ghanaian,ghana,0,ghanaian
+86,GI,Gibraltar,GIB,Gibraltar,gibraltar,0,gibraltar
+87,GL,Greenland,GRL,Greenlandic,greenland,0,greenlandic
+88,GM,Gambia,GMB,Gambian,gambia,0,gambian
+89,GN,Guinea,GIN,Guinean,guinea,28,guinean
+90,GP,Guadeloupe,GLP,Guadeloupian,guadeloupe,0,guadeloupian
+91,GQ,Equatorial Guinea,GNQ,Equatorial Guinean,equatorial guinea,0,equatorial guinean
+92,GR,Greece,GRC,Greek,greece,1,greek
+93,GS,South Georgia and the South Sandwich Islands,SGS,South Georgia and the South Sandwich Islander,south georgia and the south sandwich islands,0,south georgia and the south sandwich islander
+94,GT,Guatemala,GTM,Guatemalan,guatemala,0,guatemalan
+95,GU,Guam,GUM,Guamanian,guam,25,guamanian
+96,GW,Guinea-Bissau,GNB,Guinea-Bissauan,guinea-bissau,0,guinea-bissauan
+97,GY,Guyana,GUY,Guyanese,guyana,0,guyanese
+98,HK,Hong Kong SAR China,HKG,Chinese,hong kong sar china,0,chinese
+99,HM,Heard Island and McDonald Islands,HMD,Heard and McDonald Islander,heard island and mcdonald islands,0,heard and mcdonald islander
+100,HN,Honduras,HND,Honduran,honduras,0,honduran
+101,HR,Croatia,HRV,Croatian,croatia,1,croatian
+102,HT,Haiti,HTI,Haitian,haiti,0,haitian
+103,HU,Hungary,HUN,Hungarian,hungary,1,hungarian
+104,ID,Indonesia,IDN,Indonesian,indonesia,278,indonesian
+105,IE,Ireland,IRL,Irish,ireland,0,irish
+106,IL,Israel,ISR,Israeli,israel,62,israeli
+107,IM,Isle of Man,IMN,Manx,isle of man,0,manx
+108,IN,India,IND,Indian,india,58,indian
+109,IO,British Indian Ocean Territory,IOT,Indian,british indian ocean territory,0,indian
+110,IQ,Iraq,IRQ,Iraqi,iraq,142,iraqi
+111,IR,Iran,IRN,Iranian,iran,25,iranian
+112,IS,Iceland,ISL,Icelander,iceland,9,icelander
+113,IT,Italy,ITA,Italian,italy,19,italian
+114,JE,Jersey,JEY,Channel Islander,jersey,0,channel islander
+115,JM,Jamaica,JAM,Jamaican,jamaica,1,jamaican
+116,JO,Jordan,JOR,Jordanian,jordan,57,jordanian
+117,JP,Japan,JPN,Japanese,japan,258,japanese
+118,JT,Johnston Island,JTN,?,johnston island,0,?
+119,KE,Kenya,KEN,Kenyan,kenya,0,kenyan
+120,KG,Kyrgyzstan,KGZ,Kirghiz,kyrgyzstan,0,kirghiz
+121,KH,Cambodia,KHM,Cambodian,cambodia,54,cambodian
+122,KI,Kiribati,KIR,I-Kiribati,kiribati,0,i-kiribati
+123,KM,Comoros,COM,Comoran,comoros,0,comoran
+124,KN,Saint Kitts and Nevis,KNA,Kittian and Nevisian,saint kitts and nevis,0,kittian and nevisian
+125,KP,North Korea,PRK,North Korean,north korea,16,north korean
+126,KR,South Korea,KOR,South Korean,south korea,22,south korean
+127,KW,Kuwait,KWT,Kuwaiti,kuwait,114,kuwaiti
+128,KY,Cayman Islands,CYM,Caymanian,cayman islands,0,caymanian
+129,KZ,Kazakhstan,KAZ,Kazakhstani,kazakhstan,1,kazakhstani
+130,LA,Laos,LAO,Laotian,laos,67,laotian
+131,LB,Lebanon,LBN,Lebanese,lebanon,0,lebanese
+132,LC,Saint Lucia,LCA,Saint Lucian,saint lucia,0,saint lucian
+133,LI,Liechtenstein,LIE,Liechtensteiner,liechtenstein,0,liechtensteiner
+134,LK,Sri Lanka,LKA,Sri Lankan,sri lanka,15,sri lankan
+135,LR,Liberia,LBR,Liberian,liberia,5,liberian
+136,LS,Lesotho,LSO,Mosotho,lesotho,0,mosotho
+137,LT,Lithuania,LTU,Lithuanian,lithuania,0,lithuanian
+138,LU,Luxembourg,LUX,Luxembourger,luxembourg,0,luxembourger
+139,LV,Latvia,LVA,Latvian,latvia,0,latvian
+140,LY,Libya,LBY,Libyan,libya,56,libyan
+141,MA,Morocco,MAR,Moroccan,morocco,0,moroccan
+142,MC,Monaco,MCO,Monegasque,monaco,2,monegasque
+143,MD,Moldova,MDA,Moldovan,moldova,0,moldovan
+144,ME,Montenegro,MNE,Montenegrin,montenegro,0,montenegrin
+145,MF,Saint Martin,MAF,Saint Martin Islander,saint martin,0,saint martin islander
+146,MG,Madagascar,MDG,Malagasy,madagascar,0,malagasy
+147,MH,Marshall Islands,MHL,Marshallese,marshall islands,0,marshallese
+148,MI,Midway Islands,,,midway islands,0,
+149,MK,Macedonia,MKD,Macedonian,macedonia,0,macedonian
+150,ML,Mali,MLI,Malian,mali,173,malian
+151,MM,Myanmar [Burma],MMR,Myanmar,myanmar [burma],0,myanmar
+152,MN,Mongolia,MNG,Mongolian,mongolia,2,mongolian
+153,MO,Macau SAR China,MAC,Chinese,macau sar china,0,chinese
+154,MP,Northern Mariana Islands,MNP,American,northern mariana islands,0,american
+155,MQ,Martinique,MTQ,French,martinique,0,french
+156,MR,Mauritania,MRT,Mauritanian,mauritania,0,mauritanian
+157,MS,Montserrat,MSR,Montserratian,montserrat,0,montserratian
+158,MT,Malta,MLT,Maltese,malta,0,maltese
+159,MU,Mauritius,MUS,Mauritian,mauritius,0,mauritian
+160,MV,Maldives,MDV,Maldivan,maldives,0,maldivan
+161,MW,Malawi,MWI,Malawian,malawi,5,malawian
+162,MX,Mexico,MEX,Mexican,mexico,62,mexican
+163,MY,Malaysia,MYS,Malaysian,malaysia,253,malaysian
+164,MZ,Mozambique,MOZ,Mozambican,mozambique,0,mozambican
+165,,Namibia,NAM,Namibian,namibia,0,namibian
+166,NC,New Caledonia,NCL,New Caledonian,new caledonia,0,new caledonian
+167,NE,Niger,NER,Nigerian,niger,0,nigerian
+168,NF,Norfolk Island,NFK,Norfolk Islander,norfolk island,0,norfolk islander
+169,NG,Nigeria,NGA,Nigerian,nigeria,0,nigerian
+170,NI,Nicaragua,NIC,Nicaraguan,nicaragua,2,nicaraguan
+171,NL,Netherlands,NLD,Dutch,netherlands,18,dutch
+172,NO,Norway,NOR,Norwegian,norway,24,norwegian
+173,NP,Nepal,NPL,Nepalese,nepal,1,nepalese
+174,NQ,Dronning Maud Land,ATN,?,dronning maud land,0,?
+175,NR,Nauru,NRU,Nauruan,nauru,0,nauruan
+176,NT,Neutral Zone,NTZ,?,neutral zone,0,?
+177,NU,Niue,NIU,Niuean,niue,0,niuean
+178,NZ,New Zealand,NZL,New Zealander,new zealand,6,new zealander
+179,OM,Oman,OMN,Omani,oman,2,omani
+180,PA,Panama,PAN,Panamanian,panama,38,panamanian
+181,PC,Pacific Islands Trust Territory,PCI,?,pacific islands trust territory,0,?
+182,PE,Peru,PER,Peruvian,peru,5,peruvian
+183,PF,French Polynesia,PYF,French Polynesian,french polynesia,0,french polynesian
+184,PG,Papua New Guinea,PNG,Papua New Guinean,papua new guinea,27,papua new guinean
+185,PH,Philippines,PHL,Filipino,philippines,2344,filipino
+186,PK,Pakistan,PAK,Pakistani,pakistan,11,pakistani
+187,PL,Poland,POL,Polish,poland,0,polish
+188,PM,Saint Pierre and Miquelon,SPM,French,saint pierre and miquelon,0,french
+189,PN,Pitcairn Islands,PCN,Pitcairn Islander,pitcairn islands,0,pitcairn islander
+190,PR,Puerto Rico,PRI,Puerto Rican,puerto rico,0,puerto rican
+191,PS,Palestinian Territories,PSE,Palestinian,palestinian territories,0,palestinian
+192,PT,Portugal,PRT,Portuguese,portugal,0,portuguese
+193,PU,U.S. Miscellaneous Pacific Islands,PUS,?,u.s. miscellaneous pacific islands,0,?
+194,PW,Palau,PLW,Palauan,palau,1,palauan
+195,PY,Paraguay,PRY,Paraguayan,paraguay,1,paraguayan
+196,PZ,Panama Canal Zone,PCZ,?,panama canal zone,0,?
+197,QA,Qatar,QAT,Qatari,qatar,30,qatari
+198,RE,Réunion,REU,French,réunion,0,french
+199,RO,Romania,ROU,Romanian,romania,0,romanian
+200,RS,Serbia,SRB,Serbian,serbia,1,serbian
+201,RU,Russia,RUS,Russian,russian federation | russia,298,russian
+202,RW,Rwanda,RWA,Rwandan,rwanda,0,rwandan
+203,SA,Saudi Arabia,SAU,Saudi Arabian,saudi arabia,42,saudi arabian
+204,SB,Solomon Islands,SLB,Solomon Islander,solomon islands,0,solomon islander
+205,SC,Seychelles,SYC,Seychellois,seychelles,0,seychellois
+206,SD,Sudan,SDN,Sudanese,sudan,0,sudanese
+207,SE,Sweden,SWE,Swedish,sweden,2,swedish
+208,SG,Singapore,SGP,Singaporean,singapore,119,singaporean
+209,SH,Saint Helena,SHN,Saint Helenian,saint helena,0,saint helenian
+210,SI,Slovenia,SVN,Slovene,slovenia,0,slovene
+211,SJ,Svalbard and Jan Mayen,SJM,Norwegian,svalbard and jan mayen,0,norwegian
+212,SK,Slovakia,SVK,Slovak,slovakia,0,slovak
+213,SL,Sierra Leone,SLE,Sierra Leonean,sierra leone,0,sierra leonean
+214,SM,San Marino,SMR,Sammarinese,san marino,0,sammarinese
+215,SN,Senegal,SEN,Senegalese,senegal,0,senegalese
+216,SO,Somalia,SOM,Somali,somalia,13,somali
+217,SR,Suriname,SUR,Surinamer,suriname,0,surinamer
+218,ST,São Tomé and Príncipe,STP,Sao Tomean,são tomé and príncipe,0,sao tomean
+219,SU,Union of Soviet Socialist Republics,?,?,union of soviet socialist republics,0,?
+220,SV,El Salvador,SLV,Salvadoran,el salvador,0,salvadoran
+221,SY,Syria,SYR,Syrian,syria,61,syrian
+222,SZ,Swaziland,SWZ,Swazi,swaziland,0,swazi
+223,TC,Turks and Caicos Islands,TCA,Turks and Caicos Islander,turks and caicos islands,0,turks and caicos islander
+224,TD,Chad,TCD,Chadian,chad,0,chadian
+225,TF,French Southern Territories,ATF,French,french southern territories,0,french
+226,TG,Togo,TGO,Togolese,togo,1,togolese
+227,TH,Thailand,THA,Thai,thailand,65,thai
+228,TJ,Tajikistan,TJK,Tadzhik,tajikistan,0,tadzhik
+229,TK,Tokelau,TKL,Tokelauan,tokelau,0,tokelauan
+230,TL,Timor-Leste,TLS,East Timorese,timor-leste,0,east timorese
+231,TM,Turkmenistan,TKM,Turkmen,turkmenistan,0,turkmen
+232,TN,Tunisia,TUN,Tunisian,tunisia,0,tunisian
+233,TO,Tonga,TON,Tongan,tonga,0,tongan
+234,TR,Turkey,TUR,Turkish,turkey,16,turkish
+235,TT,Trinidad and Tobago,TTO,Trinidadian,trinidad and tobago,0,trinidadian
+236,TV,Tuvalu,TUV,Tuvaluan,tuvalu,0,tuvaluan
+237,TW,Taiwan,TWN,Taiwanese,taiwan,30,taiwanese
+238,TZ,Tanzania,TZA,Tanzanian,tanzania,0,tanzanian
+239,UA,Ukraine,UKR,Ukrainian,ukraine,0,ukrainian
+240,UG,Uganda,UGA,Ugandan,uganda,1,ugandan
+241,UM,U.S. Minor Outlying Islands,UMI,American,u.s. minor outlying islands,0,american
+242,US,United States,USA,American,united states | usa,598,american
+243,UY,Uruguay,URY,Uruguayan,uruguay,1,uruguayan
+244,UZ,Uzbekistan,UZB,Uzbekistani,uzbekistan,1,uzbekistani
+245,VA,Vatican City,VAT,Italian,vatican city,0,italian
+246,VC,Saint Vincent and the Grenadines,VCT,Saint Vincentian,saint vincent and the grenadines,0,saint vincentian
+247,VD,North Vietnam,VDR,?,north vietnam,0,?
+248,VE,Venezuela,VEN,Venezuelan,venezuela,1,venezuelan
+249,VG,British Virgin Islands,VGB,Virgin Islander,british virgin islands,0,virgin islander
+250,VI,U.S. Virgin Islands,VIR,Virgin Islander,u.s. virgin islands,0,virgin islander
+251,VN,Vietnam,VNM,Vietnamese,vietnam,73,vietnamese
+252,VU,Vanuatu,VUT,Ni-Vanuatu,vanuatu,0,ni-vanuatu
+253,WF,Wallis and Futuna,WLF,Wallis and Futuna Islander,wallis and futuna,0,wallis and futuna islander
+254,WK,Wake Island,WAK,?,wake island,0,?
+255,WS,Samoa,WSM,Samoan,samoa,0,samoan
+256,YE,Yemen,YEM,Yemeni,yemen,3,yemeni
+257,YT,Mayotte,MYT,French,mayotte,0,french
+258,ZA,South Africa,ZAF,South African,south africa,6,south african
+259,ZM,Zambia,ZMB,Zambian,zambia,1,zambian
+260,ZW,Zimbabwe,ZWE,Zimbabwean,zimbabwe,0,zimbabwean
